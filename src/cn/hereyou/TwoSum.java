@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 第一题
+ * 第[1]题
  */
 public class TwoSum {
     public static void main(String[] args) {

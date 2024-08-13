@@ -3,7 +3,7 @@ package cn.hereyou;
 import java.util.Stack;
 
 /**
- * 第20题
+ * 第[20]题
  */
 public class ValidParentheses {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package cn.hereyou;
 
 /**
- * 第14题
+ * 第[14]题
  */
 public class LongesCommonPrefix {
     public static void main(String[] args) {

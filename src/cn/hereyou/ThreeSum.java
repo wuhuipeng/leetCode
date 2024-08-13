@@ -4,7 +4,7 @@ package cn.hereyou;
 import java.util.Arrays;
 
 /**
- * 16题目
+ * [16]题目
  * 三数之和
  */
 public class ThreeSum {

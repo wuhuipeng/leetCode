@@ -1,7 +1,7 @@
 package cn.hereyou;
 
 /**
- * 第9题 回文数
+ * 第[9]题 回文数
  */
 public class PalindromeNumber {
 

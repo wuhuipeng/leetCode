@@ -3,7 +3,7 @@ package cn.hereyou;
 import java.util.*;
 
 /**
- * 17. 电话号码的字母组合 广度优先算法
+ * [17]. 电话号码的字母组合 广度优先算法
  */
 
 public class LetterCombinationsOfAPhoneNumber {

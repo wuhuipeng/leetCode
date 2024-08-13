@@ -2,7 +2,7 @@ package cn.hereyou;
 
 
 /**
- * 第七题
+ * 第[7]题
  */
 public class ReverseInteger {
     public static int reverse(int x) {
