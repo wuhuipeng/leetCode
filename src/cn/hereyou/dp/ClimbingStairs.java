@@ -15,8 +15,12 @@ public class ClimbingStairs {
 
     public static int climbStairs(int n) {
         // 如果楼梯是 0 级或 1 级，只有一种方法
-        if (n == 0) return 0;
-        if (n == 1) return 1;
+        if (n == 0) {
+            return 0;
+        }
+        if (n == 1) {
+            return 1;
+        }
 
         // 创建一个数组 dp 来存储到达每个台阶的方法数
         int[] dp = new int[n + 1];
@@ -43,4 +47,3 @@ public class ClimbingStairs {
 
 
 
-}
