@@ -2,7 +2,7 @@ package cn.hereyou.array;
 
 /**
  *
- * 189题. 轮转数组
+ * [189]题. 轮转数组
  */
 public class RotatingArray {
 

@@ -4,7 +4,7 @@ package cn.hereyou.sort;
 import java.util.Arrays;
 
 /**
- *  912. 排序数组
+ *  [912]. 排序数组
  *  冒泡排序法
  */
 public class SortArray {

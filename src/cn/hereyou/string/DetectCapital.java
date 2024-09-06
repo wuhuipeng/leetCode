@@ -1,7 +1,7 @@
 package cn.hereyou.string;
 
 /**
- * 第520题
+ * 520
  */
 public class DetectCapital {
 

@@ -4,7 +4,7 @@ package cn.hereyou.bfs;
 import java.util.*;
 
 /**
- * LeetCode:127
+ * LeetCode:[127]
  */
 public class WordLadder {
 

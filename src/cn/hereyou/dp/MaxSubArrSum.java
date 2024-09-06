@@ -1,7 +1,7 @@
 package cn.hereyou.dp;
 
 /**
- * 53. 最大子数组和
+ * [53]. 最大子数组和
  */
 public class MaxSubArrSum {
     public int maxSubArray(int[] nums) {
