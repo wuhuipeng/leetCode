@@ -1,6 +1,7 @@
 package cn.hereyou.dp;
 
 
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
@@ -38,9 +39,9 @@ public class WordBreak {
         WordBreak wb = new WordBreak();
 
         String s = "leetcode";
-        List<String> wordDict = List.of("leet", "code");
-
-        boolean result = wb.wordBreak(s, wordDict);
-        System.out.println(result);  // 输出: true
+//        List<String> wordDict = List.of("leet", "code");
+//
+//        boolean result = wb.wordBreak(s, wordDict);
+//        System.out.println(result);  // 输出: true
     }
 }
